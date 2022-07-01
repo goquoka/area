@@ -1,0 +1,6 @@
+lass Main {
+  public static void main(String[] args) {
+double b = 16;
+double h = 21;
+ double A = (b*h)/2;
+System.out.print(A);
